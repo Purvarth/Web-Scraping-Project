@@ -12,11 +12,9 @@ Dataset Creation: Compile the scraped data into a structured dataset for further
 
 Data Cleaning: Identify and handle missing values, inconsistencies, and errors in the dataset.
 
-Calculations: Perform calculations to generate additional insights, such as price per square foot or average property prices.
+Calculations: Perform calculations to generate additional insights.
 
 MS Excel Integration: Upload the cleaned dataset to MS Excel for data manipulation and exploration.
-
-Insight Generation: Derive meaningful insights about property trends, pricing variations, and popular amenities.
 
 Visualization (Optional): Create visualizations within MS Excel to enhance the presentation of findings.
 
